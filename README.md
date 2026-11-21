@@ -19,4 +19,4 @@ TypeScript, Python, Next.js, MapLibre GL, deck.gl, DuckDB, PostGIS, GeoPandas, S
 
 ## Elsewhere
 
-[Resume](https://www.thomashervey.net/resume/Hervey_Resume_2026_03_16.pdf) · [thomashervey.net](https://www.thomashervey.net)
+[Resume](https://www.thomashervey.net/resume/Hervey_Resume.pdf) · [thomashervey.net](https://www.thomashervey.net)
